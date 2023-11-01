@@ -1,4 +1,4 @@
-![logo](https://github.com/abulla-othow/abulla-othow/blob/main/Abulla%20othow%20(1).png?raw=true)
+![logo](https://github.com/abulla-othow/abulla-othow/blob/main/www.kogilo.com.png?raw=true)
 <h1 align="center">Hi 👋, I'm Abulla Othow</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477bstqps2i0rhd5sar1ctj8z0yulu2vbeil30nl67&ep=v1_gifs_search&rid=giphy.gif&ct=g">
