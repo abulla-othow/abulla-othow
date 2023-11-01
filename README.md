@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abulla Othuw</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abulla-othow&label=Profile%20views&color=0e75b6&style=flat" alt="abulla-othow" /> </p>
+<img align="right" alt="coding" width="400" src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=abulla-othow&label=Profile%20views&color=0e75b6&style=flat" alt="abulla-othow" /> </p>
+">
 
 - 🔭 I’m currently working on **AWS Cloud Practitioner Certification**
 
